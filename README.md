@@ -6,7 +6,11 @@ Problem Statement -
 The data-set aims to answer the following key questions:
 
 Does various predicting factors really affect the loss incurred by the insurance company?
+
 What are the predicting variables actually affecting the loss incurred by the insurance company?
+
 Should a Age factors really affect the losses incurred by insurance company?
+
 Do a experience in driving really affect the rate of taking vehicles insurance ?
+
 What is the main reason or factor which is really affecting the losses incurred by insurance company?
